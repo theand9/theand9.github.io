@@ -1408,7 +1408,7 @@ body.dark .loader_line:after {
 }
 .know_tm_main_title {
   width: 100%;
-  max-width: 45%;
+  max-width: 100%;
   height: auto;
   clear: both;
   float: left;
@@ -1577,7 +1577,7 @@ body.dark .loader_line:after {
   height: auto;
   clear: both;
   float: left;
-  margin-bottom: 67px;
+  margin-bottom: 30px;
 }
 .know_tm_resume .right .skills_list:last-child {
   margin-bottom: 0px;
@@ -1598,13 +1598,13 @@ body.dark .loader_line:after {
 }
 .progress_inner {
   width: 100%;
-  margin-bottom: 23px;
+  margin-bottom: 20px;
 }
 .progress_inner:last-child {
   margin-bottom: 0px;
 }
 .progress_inner > span {
-  margin: 0px 0px 20px 0px;
+  margin: 0px 0px 0px 0px;
   display: block;
   text-align: left;
   position: relative;
@@ -1626,6 +1626,7 @@ body.dark .loader_line:after {
 .progress_inner span.label.opened {
   opacity: 1;
   transform: translateY(0px);
+  font-weight: 500;
 }
 .progress_inner span.number {
   float: right;
