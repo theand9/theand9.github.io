@@ -535,10 +535,8 @@ body.dark .loader_line:after {
 }
 .know_tm_hero .text {
   font-size: 24px;
-  margin-bottom: 27px;
-  background-color: white;
+  margin-bottom: 25px;
   padding: 0px 20px;
-  border: 1px solid black;
 }
 .know_tm_video {
   width: auto;
@@ -1464,7 +1462,7 @@ body.dark .loader_line:after {
   display: flex;
 }
 .know_tm_resume .know_tm_main_title {
-  margin-bottom: 100px;
+  margin-bottom: 70px;
 }
 .know_tm_resume .left {
   width: 100%;
@@ -1475,7 +1473,7 @@ body.dark .loader_line:after {
   height: auto;
   clear: both;
   float: left;
-  margin-bottom: 62px;
+  margin-bottom: 10px;
 }
 .know_tm_resume .info_list:last-child {
   margin-bottom: 0px;
@@ -1515,7 +1513,8 @@ body.dark .loader_line:after {
   transform: translate(-50%, -50%);
 }
 .know_tm_resume .info_list ul {
-  margin: 38px 0px 0px 0px;
+  margin: 25px 0px 0px 0px;
+  padding-left: 20px;
   float: left;
   list-style-type: circle;
   font-size: 14px;
@@ -1526,7 +1525,7 @@ body.dark .loader_line:after {
   margin: 0px 0px 4px 0px;
 }
 .know_tm_resume .info_list ul li:last-child {
-  margin-bottom: 20px;
+  margin-bottom: 25px;
 }
 .know_tm_resume .info_list ul li .list_inner {
   width: 100%;
@@ -1593,7 +1592,7 @@ body.dark .loader_line:after {
   height: auto;
   clear: both;
   float: left;
-  padding-top: 40px;
+  padding-top: 25px;
   overflow: hidden;
 }
 .progress_inner {
