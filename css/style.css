@@ -495,7 +495,7 @@ body.dark .loader_line:after {
 }
 .know_tm_hero .content_inner {
   width: 100%;
-  min-height: 100vh;
+  min-height: 80vh;
   float: left;
   clear: both;
   position: relative;
